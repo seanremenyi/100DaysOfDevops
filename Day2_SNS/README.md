@@ -19,3 +19,11 @@
 - Select Topic -> Publish message
 - Enter a subject and message
 - Publish message
+
+### CLI
+
+Refer to CLI folder
+
+### Terraform
+
+Refer to terraform folder
